@@ -24,7 +24,7 @@ The dataset includes a wide range of metrics such as timestamp, source IP addres
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/cybersecurity-attacks-analysis.git
+    git clone https://github.com/bishal-1022/cybersecurity-attacks-analysis.git
     ```
 
 2. **Navigate to the project directory:**
