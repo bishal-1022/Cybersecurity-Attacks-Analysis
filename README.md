@@ -21,18 +21,28 @@ The dataset includes a wide range of metrics such as timestamp, source IP addres
 
 ## How to Use
 
-1. **Clone the Repository:**
+1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/bishal-1022/cybersecurity-attacks-analysis.git
-   cd cybersecurity-attacks-analysis
-   ```
+    ```bash
+    git clone https://github.com/your-username/cybersecurity-attacks-analysis.git
+    ```
 
-2. **Explore the Notebooks:**
+2. **Navigate to the project directory:**
 
-   - Open the Jupyter notebooks to analyze and visualize the cybersecurity attacks data.
+    ```bash
+    cd cybersecurity-attacks-analysis
+    ```
 
-3. **Customize and Expand:**
+3. **Open the Jupyter Notebook:**
+
+    ```bash
+    jupyter notebook
+    ```
+
+4. **Explore the notebook to analyze and visualize the cybersecurity attacks dataset.**
+
+
+5. **Customize and Expand:**
 
    - Modify the code based on your specific dataset columns and requirements.
    - Explore additional visualizations, statistical tests, or machine learning models.
